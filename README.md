@@ -1,4 +1,5 @@
-# University_CMS_in_laravel
+✅ ISESTMA Event Manager
+
 
 But : Créer une application Web, sous PHP/MySQL, qui permet aux étudiants et à certains intervenants dans l’action pédagogique de consulter et de mettre à jour des informations liées à la communication, à l’accès à certains services et à la gestion des emplois du temps et des événements importants.  En effet, il s’agit de proposer une analyse et une conception convenables, créer et gérer une base de données puis proposer une interface Web pour se servir des fonctionnalités décrites en bas. 
 
